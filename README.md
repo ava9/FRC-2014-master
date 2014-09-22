@@ -1,4 +1,2 @@
-FRC-2014
+FRC-2014 Code
 ========
-
-Code used on 2791's 2014 robot Raptor SS
