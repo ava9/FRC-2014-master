@@ -9,10 +9,6 @@ import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import java.util.Vector;
 
-/**
- *
- * @author Maxwell
- */
 public class AutonRunner {
     private static int autonState, disksShot;
     private static Timer timer;
